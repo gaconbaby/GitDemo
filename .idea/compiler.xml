@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="cucumber-demo" />
         <module name="Automation" />
+        <module name="GitDemo" />
       </profile>
     </annotationProcessing>
   </component>
